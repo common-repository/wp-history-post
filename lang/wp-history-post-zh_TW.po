@@ -1,0 +1,75 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP History Post\n"
+"POT-Creation-Date: 2014-03-05 20:42+0800\n"
+"PO-Revision-Date: 2014-03-05 20:42+0800\n"
+"Last-Translator: Arefly <eflyjason@gmail.com>\n"
+"Language-Team: Arefly <eflyjason@gmail.com>\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-Basepath: ../\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: options.php:3
+msgid "<h3>History Post: </h3>"
+msgstr "<h3>歷史上的今天所寫的文章</h3>"
+
+#: options.php:11 options.php:18
+msgid "WP History Post Options Page"
+msgstr "WP History Post 設定頁面"
+
+#: options.php:11 wp-history-post.php:125 wp-history-post.php:130
+msgid "WP History Post"
+msgstr "WP History Post"
+
+#: options.php:21
+msgid "General Options"
+msgstr "一般設定"
+
+#: options.php:22
+#, php-format
+msgid ""
+"You can go to get History Post in Post by function %s in post or using "
+"widget to see Today History Post"
+msgstr ""
+"你可以通過PHP Function %s 來在文章內加入歷史上的文章，或者使用小工具查看歷史"
+"上的今天"
+
+#: options.php:25
+msgid "History Post in Post's title: "
+msgstr "文章中「歷史上的文章」的標題"
+
+#: options.php:31
+msgid "Way you want to get for the latest post: "
+msgstr "前往最新文章的方式："
+
+#: options.php:34
+#, php-format
+msgid "You may use %s in it."
+msgstr "你可以使用 %s"
+
+#: wp-history-post.php:48
+msgid "Settings"
+msgstr "設定"
+
+#: wp-history-post.php:123
+msgid "See your Today's History Post."
+msgstr "查看歷史上的今天的文章"
+
+#: wp-history-post.php:156
+msgid "There are no History Post Today!"
+msgstr "歷史上的今天沒有寫過文章！"
+
+#: wp-history-post.php:184
+msgid "Widget Title"
+msgstr "標題"
+
+#: wp-history-post.php:189
+msgid "No History Post's Notice"
+msgstr "「歷史上的今天沒有文章」提示"
